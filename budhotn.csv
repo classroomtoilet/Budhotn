@@ -58,7 +58,7 @@ agresivní	agresjivnyj	agrɛsjivnyj
 agronomie	agronomja	agronomja
 ahoj (pří loučení)	pąqa	pɑqa
 ahoj	privjeta	privjɛta	servüs	servɯs
-ahoj, vítej	povitaňje	povitaɲjɛ	vitaj	vitaj
+ahoj	povitaňje	povitaɲjɛ	vitaj	vitaj
 ach jo	táł	taːw
 akademický	aqademyckyj	aqadɛmyckyj
 akademie	aqademja	aqadɛmja
@@ -470,8 +470,9 @@ by	báj	baːj
 býk	tał’r	taw’r	bÿq	bʏq
 býk	tał'r	taw'r	bÿq	bʏq
 bylina	herb	hɛrb
-bylina, bylinný lék	gorczyńa	gortʃːyŋa
+bylina	gorczyńa	gortʃːyŋa
 bylinný čaj	herbatha	hɛrbaθa
+bylinný lék	gorczyńa	gortʃːyŋa
 byrokatrický	bjúrokratickyj	bjuːrokratickyj
 byrokracie	bjúrokracja	bjuːrokracja
 být nemocný	choryč	xorytʃ
@@ -703,7 +704,8 @@ debatovat	diskusovač	diskusovatʃ
 debatovat	govorič	govoritʃ
 decetralizce	dećetralyzácja	dɛcːɛtralyzaːcja
 děda	djeduszqa	djɛduʃːqa
-dědek, dědeček	đjadtheq	dʒːjaθɛq	dzedo	dzɛdo
+dědeček	đjadtheq	dʒːjaθɛq	dzedo	dzɛdo
+dědek	đjadtheq	dʒːjaθɛq	dzedo	dzɛdo
 dědic	džeđyc	dʒɛdʒːyc
 dědictví	džeđyctvo	dʒɛdʒːyctvo
 dedikovat	đedžikovač	dʒɛdʒikovatʃ
@@ -740,6 +742,7 @@ dělit	đëlyč	dʒːælytʃ
 délka	đołka	dʒːowka	dolhżyna	doɬʒyna
 demagogie	dzemągogja	dzɛmɑgogja
 demise	dëmisja	dæmisja	debilsja	debilsja
+demise	dząmisja	dzɑmisja
 demogracký	dzemągrafycznyj	dzɛmɑgrafytʃːnyj
 demografie	dzemągráfja	dzɛmɑgraːfja
 demokracie	demokracja	dɛmokracja
@@ -1143,7 +1146,7 @@ finština	fynski	fynski
 firma	qompanija	qompanija
 firmový	qompanyj	qompanyj
 fiskální	fyßqáłnyj	fysːqaːwnyj
-flakón, lahvička	flaqoń	flaqoŋ
+flakón	flaqoń	flaqoŋ
 flétna	fľúga	fʎuːga
 flotila	flhotyl	fɬotyl
 floutek	flúťikh	fluːʈiʁ
@@ -1303,6 +1306,7 @@ hnízdo	gňjezdo	gɲjɛzdo
 hobby	hoby	hoby
 hodina	czas	tʃːas
 hodné	godthnyje	goðnyjɛ
+hodně	dużo	duʒːo	bołszo	bowʃːo
 hodnost	godnyj	godnyj
 hodný	dobaryj	dobaryj
 hodovat	hodovač	hodovatʃ
@@ -1499,6 +1503,7 @@ idea	ydeja	ydɛja
 ideál	jideał	jidɛaw
 idealismus	jidealismus	jidɛalismus
 idealistický	jidealystycznyj	jidɛalystytʃːnyj
+ideální	ëkht	æʁt
 identický	idthentycznyj	iðɛntytʃːnyj
 identifikovat	idthentyfyqovač	iðɛntyfyqovatʃ
 ideolog	jideolőg	jidɛoləːg
@@ -1849,6 +1854,7 @@ kytara	gitár	gitaːr
 kytice	bukjeth	bukjɛθ
 láhev	buthelića	buθɛlicːa	fľasza	fʎaʃː
 láhev	flasza	flaʃːa
+lahvička	flaqoń	flaqoŋ
 lak	łaq	waq
 lanová dráha	funiqüler	funiqɯlɛr
 láska	ľubof	ʎubof
@@ -1936,7 +1942,7 @@ mlčení	cz’szëňje	tʃː’ʃːæɲjɛ
 mlčení	cz'szëňje	tʃː'ʃːæɲjɛ
 mluvit	młúvič	mwuːvitʃ
 mnoho	mnogo	mnogo
-mnoho, hodně	dużo	duʒːo	bołszo	bowʃːo
+mnoho	dużo	duʒːo	bołszo	bowʃːo
 moct	moč	motʃ
 mohyla	mogylha	mogyɬa
 moje	moe	moɛ
@@ -2262,9 +2268,8 @@ prapor	fľág	fʎaːg
 právník	jurisczyk	juristʃːyk
 právo	gÿźyn	gʏzːyn
 právo	juris	juris
-pravoslavný	c’rkevnoslovjanskyj	c’rkɛvnoslovjanskyj
 pravoslavný	c'rkevnoslovjanskyj	c'rkɛvnoslovjanskyj
-pravý, ideální	ëkht	æʁt
+pravý	ëkht	æʁt
 premiér	münmekh	mɯnmeʁ
 prezentace	prązentacja	prɑzɛntacja
 pro	för	fər
@@ -2350,7 +2355,7 @@ regresivní	odstupač	odstupatʃ
 rej	rhej	ɾɛj
 replika	rëplyq	ræplyq
 revolver	khevolvërh	ʁɛvolvæɾ
-rezignace, demise	dząmisja	dzɑmisja
+rezignace	dząmisja	dzɑmisja
 režie	reżja	reʒːja
 režie	reżja	rɛʒːja
 režiser	reżyßér	reʒːysːɛːr
@@ -2504,7 +2509,6 @@ stůl	bjúrko	bjuːrko
 stvořit	iskuč	iskutʃ
 sud	süd	sɯd
 suma	s’uma	s’uma	súma	suːma	sma	sma
-suma	s'uma	s'uma
 suma	s'uma	s'uma	súma	suːma	sma	sma
 sup	ßÿp	sːʏp
 super	blagodňje	blagodɲjɛ
@@ -2556,13 +2560,11 @@ talíř	plot	plot	taňjér	taɲjɛr
 talíř	thalh	θaɬ	pládth	plaːð
 tank	tąnk	tɑnk
 taška (krytina)	tásq	taːsq
-Táta	Papa	papa
 Táta	Papa	papa	pápka	paːpka	pápásza	paːpaːʃːa
 Tatínek	Pilf	pilf
 Tatínek	Pilf	pilf	Pilfa	pilfa	Pilfqa	pilfqa
 tebe	čjebje	tʃjɛbjɛ
 téct	teqüč	tɛqɯtʃ
-tečka	dot	dot	dó’t	doː’t
 tečka	dot	dot	dó't	doː't
 technologie	tëqnologja	tæqnologja
 tekutina	teqüťyna	tɛqɯʈyna
@@ -2625,7 +2627,6 @@ trosky	rújny	ruːjny
 troud	drúq	druːq
 trpělivost	mińtoczkošč	miŋtotʃːkoʃtʃ
 trpělivý	mińtoczknyj	miŋtotʃːknyj
-trpět	th’ŕpyč	θ’rːpytʃ
 trpět	th'ŕpyč	θ'rːpytʃ
 trpět	trąpjač	trɑpjatʃ
 trubec	trúbjeć	truːbjɛcː
@@ -2741,6 +2742,7 @@ víník	vyň‘k	vyɲ’k
 víník	vyň‘k	vyɲ'k
 víra	vjare	vjarɛ
 virus	łirus	wirus
+vítej	povitaňje	povitaɲjɛ	vitaj	vitaj
 vítr	łufth	wufθ
 vláda	vládtha	vlaːða
 vláda	vładtha	vwaða
@@ -2749,7 +2751,6 @@ vlajka	fľaga	fʎaga
 vlajka	prapör	prapər
 vlastně	realno	rɛalno
 vlastně	stvárńo	stvaːrno
-vlastně	za’isto	za’isto	faqtyczno	faqtytʃːno
 vlastně	za'isto	za'isto	faqtyczno	faqtytʃːno
 vlastnost	czrta	tʃːrta	svojstvło	svojstwo	athrybúth	aθrybuːθ
 vlaštovka	jakjića	jakjicːa
@@ -2784,12 +2785,9 @@ vtipálek	đołq'czyk	dʒːowq'tʃːyk
 vtipálek	dročijiczyk	drotʃijitʃːyk
 vůdce	fürh	fɯɾ
 vůle	łoľa	woʎa
-Vy	Łyrh	wyɾ	Á’mé	aː’meː	Aemé	aɛmɛː
 Vy	Łyrh	wyɾ	Á'mé	aː'meː	Aemé	aɛmɛː
 vybavit	zjëđnač	zjædʒːnatʃ
-výběr	vüber	vɯbɛr	vÿ’b	vʏ’b
 výběr	vüber	vɯbɛr	vÿ'b	vʏ'b
-vybouchnout	v’bűkhnúč	v’bɯːʁnuːtʃ
 vybouchnout	v'bűkhnúč	v'bɯːʁnuːtʃ
 vydání	łydaňje	wydaɲjɛ
 vydržet	łyďërżáč	waɖærʒːaːtʃ
@@ -2813,7 +2811,6 @@ výstava	łernysáż	wernysaːʒː
 vytrvat	usyłovač	usywovatʃ
 vytrvat	vyďerzáč	vyɖɛɽːaːtʃ			stremleč	strɛmletʃ
 vytvářet	łytvárač	wytvaːratʃ
-vyučování	dydaqtik	dydaqtik	v’czovaňje	v’tʃovaɲjɛ
 vyučování	dydaqtik	dydaqtik	v'czovaňje	v'tʃovaɲjɛ
 výzkumní	vydzkumňja	vydzkumɲja
 vyzvednout	łydzvednúč	wydzvɛdnuːtʃ
@@ -2846,7 +2843,6 @@ zájmeno	za’imeňik	za’imeɲik
 zájmeno	za'imeňik	za'imeɲik
 základna	qamp	qamp
 základní potřeba	nüd	nɯd
-základní tvar slova	dz’qlad	dz’qlad
 základní tvar slova	dz'qlad	dz'qlad
 základy	záqlady	zaːqlady
 zaklínat	vjedžič	vjedʒitʃ
