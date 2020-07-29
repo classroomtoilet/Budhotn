@@ -1,9 +1,7 @@
 # Budhót'n
 
-Umělý jazyk velmi podobný západoslovanským jazykům s velmi komplexním repertoárem fonémů.
+Umělý jazyk na bázi Slovanských jazyků (6. verze)
 
-+ **budhotn.csv** - přímo zde vyhledávatelný slovník (začíná se sekat, ~5000 řádků)
-
-+ **Budhót'n.xslx** - původní Excel 2007+ tabulka také s abecedou i gramatikou
++ **Budhót'n.xslx** - původní Excel 2007+ tabulka také s abecedou i flexí apod.
 
 Vytváří [classroomtoilet](https://classroomtoilet.cz/), udržuje [637man](https://getmania.blogspot.com/).
