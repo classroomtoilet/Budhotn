@@ -6,14 +6,19 @@ Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fon
 + **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (~7000 řádků)
 + **README.md** - tento informační soubor
 
+
 ## Kontakty
 
 Budhót'n vytváří [classroomtoilet#2074](https://classroomtoilet.cz/), repozitář udržuje [637man#2338](https://getmania.blogspot.com/).
 
 [Skupina na Facebooku (aktualizace Budhót'n.xlsx)](https://www.facebook.com/groups/261329611863060)
-[Stránka blogu classroomtoilet.cz na Facebooku](https://www.facebook.com/classroomtolet) 
+
+[Stránka blogu classroomtoilet.cz na Facebooku](https://www.facebook.com/classroomtolet)
+
 [Tento GitHub repozitář](https://github.com/classroomtoilet/Budhotn/)
+
 Skupina na Discordu (spojená s autorovým blogem): classroomtoilet.cz
+
 E-mail: classroomtoilet (å) clasroomtoilet ˙ cz
 
 
@@ -36,7 +41,6 @@ Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ. Dále jsou 
 
 Písmeno | Klávesy | Unicode 
 --- | --- | ---
-' ' | Shift+¨ | U+0027 U+0027
 Á á | 8 / AltGr+9,A | U+00C1 U+00E1
 À à | AltGr+7,A | U+00C0 U+00E0
 Â â | AltGr+3,A | U+00C2 U+00E2
