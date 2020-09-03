@@ -13,13 +13,13 @@ Budhót'n vytváří [classroomtoilet#2074](https://classroomtoilet.cz/), repozi
 
 [Skupina na Facebooku (aktualizace Budhót'n.xlsx)](https://www.facebook.com/groups/261329611863060)
 
-[Stránka blogu classroomtoilet.cz na Facebooku](https://www.facebook.com/classroomtolet)
+[Stránka blogu classroomtoilet.cz na Facebooku](https://www.facebook.com/classroomtolet) \[sic\]
 
 [Tento GitHub repozitář](https://github.com/classroomtoilet/Budhotn/)
 
 Skupina na Discordu (spojená s autorovým blogem): classroomtoilet.cz
 
-E-mail: classroomtoilet (å) clasroomtoilet ˙ cz
+E-mail: classroomtoilet (å) classroomtoilet ˙ cz
 
 
 ## Kterak psáti znaky nabodlé
@@ -28,18 +28,20 @@ Budhót'n byl vymyšlen pro českou klávesnici. Ta má ve Window$ na AltGr (pra
 
   AltGr: | ~ | ~ | ˇ | ^ | ˘ | ° | ˛ | \` | ˙ | ' | ˝ | " | ¸
 :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-Příklad: | ~ | ã | â | â | ă | å | ą | à | ȧ | á | ő | ä | ç
+Příklad: | ~ | ã | ǎ | â | ă | å | ą | à | ȧ | á | ő | ä | ç
   Shift: | ° | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | % | ˇ
   Běžně: | ; | + | ě | š | č | ř | ž | ý | á | í | é | = | ´
+
+Na Window$ jsou omezenější možnosti nabodávání než na Linuxu. Rovněž nefunguje prstolamné Ctrl+Shift+U. [DOSový zlozvyk levého Altu](https://en.wikipedia.org/wiki/Alt_code) umožňuje pouze DOS Latin a s úvodní 0 Window$ Latin (>255 funguje v závislosti na aplikaci), pokud není HKEY_CURRENT_USER\Control Panel\Input Method\EnableHexNumpad == "1", to pak umožňuje použití úvodního + a je hexadecimální. Nicméně naštěstí všechny nabodlé znaky Budhót'nu na Windows bez mapy znaků napsat jdou, neboť autor, jsouc omezen tímto obstarožním systémem, nepoznal mocnou sílu pravideně aktualizovaných [skladných sekvencí X11](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre).
 
           Základ                        Shift                     Linux AltGr              Linux Shift+AltGr
     q w e r t z u i o p ú )     Q W E R T Z U I O P / (     \ | € ¶ ŧ ← ↓ → ø þ [ ]     Ω Ł E ® Ŧ ¥ ↑ ı Ø Þ ÷ ×
     a s d f g h j k l ů § "     A S D F G H J K L " ! '     ~ đ Đ [ ] ` ' ł Ł $ ' \     Æ § Ð ª Ŋ Ħ ̛  & Ł ˝ ß |
      y x c v b n m , . -         Y X C V B N M ? : _         ° # & @ { } ^ < > *         < > © ‘ ’ N º × ÷ ˙
 
-Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ. Dále jsou na české klávesnici méně obskurní mrtvá tlačítka na kroužek (Shift+;), čárku (vedle Backspace), háček (Shift+´) a přehlásku. Přehláska je na té klávese, která je pokaždé někde jinde poblíž Entru/Return/<-', a pod Shiftem se na ní ukrývá apostrof. Na linuxové americké mezinárodní klávesnici s AltGr mrtvými tlačítky nelze napsat đ, Ł a ł, jen ð. Kompletní seznam všech nabodlých písmenek:
+Mrtvá tečka nahoře se chová zvláštně v případě I: ı a İ. Dále jsou na české klávesnici méně obskurní mrtvá tlačítka na kroužek (Shift+;), čárku (vedle Backspace), háček (Shift+´) a přehlásku. Přehláska je na té klávese, která je pokaždé někde jinde poblíž Entru/Return/<-', a pod Shiftem se na ní ukrývá apostrof. Na linuxové americké mezinárodní klávesnici s AltGr mrtvými tlačítky nelze napsat đ, Ł a ł, jen ð a £. Kompletní seznam všech nabodlých písmenek:
 
-Písmeno | Klávesy | Unicode 
+Písmeno | Klávesy | Unicode
 --- | --- | ---
 Á á | 8 / AltGr+9,A | U+00C1 U+00E1
 À à | AltGr+7,A | U+00C0 U+00E0
