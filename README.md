@@ -3,7 +3,8 @@
 Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fonémů. 6. verze.
 
 + **Budhót'n.xslx** - původní Excel 2007+ tabulka s abecedou, gramatikou, slovníkem atd.
-+ **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (~7000 řádků)
++ **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (~4000 řádků)
++ **budhotn_abeceda.csv** - abeceda a výslovnost (výhledově i šifry)
 + **README.md** - tento informační soubor
 
 
@@ -32,7 +33,7 @@ Příklad: | ~ | ã | ǎ | â | ă | å | ą | à | ȧ | á | ő | ä | ç
   Shift: | ° | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | % | ˇ
   Běžně: | ; | + | ě | š | č | ř | ž | ý | á | í | é | = | ´
 
-Na Window$ jsou omezenější možnosti nabodávání než na Linuxu. Rovněž nefunguje prstolamné Ctrl+Shift+U. [DOSový zlozvyk levého Altu](https://en.wikipedia.org/wiki/Alt_code) umožňuje pouze DOS Latin a s úvodní 0 Window$ Latin (>255 funguje v závislosti na aplikaci), pokud není HKEY_CURRENT_USER\Control Panel\Input Method\EnableHexNumpad == "1", to pak umožňuje použití úvodního + a je hexadecimální. Nicméně naštěstí všechny nabodlé znaky Budhót'nu na Windows bez mapy znaků napsat jdou, neboť autor, jsouc omezen tímto obstarožním systémem, nepoznal mocnou sílu pravideně aktualizovaných [skladných sekvencí X11](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre).
+Na Window$ jsou omezenější možnosti nabodávání než na Linuxu. Rovněž nefunguje prstolamné Ctrl+Shift+U. [DOSový zlozvyk levého Altu](https://en.wikipedia.org/wiki/Alt_code) umožňuje pouze DOS Latin a s úvodní 0 Window$ Latin (>255 funguje v závislosti na aplikaci), pokud není HKEY_CURRENT_USER\Control Panel\Input Method\EnableHexNumpad == "1", to pak umožňuje použití úvodního + a je hexadecimální. Nicméně naštěstí všechny nabodlé znaky Budhót'nu na Windows bez mapy znaků napsat jdou, neboť autor, jsouc omezen tímto obstarožním systémem, nepoznal mocnou sílu [častěji aktualizovaných](https://cgit.freedesktop.org/xorg/lib/libX11/log/nls/en_US.UTF-8/Compose.pre) [skladných sekvencí X11](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre).
 
           Základ                        Shift                     Linux AltGr              Linux Shift+AltGr
     q w e r t z u i o p ú )     Q W E R T Z U I O P / (     \ | € ¶ ŧ ← ↓ → ø þ [ ]     Ω Ł E ® Ŧ ¥ ↑ ı Ø Þ ÷ ×
