@@ -7,6 +7,11 @@ Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fon
 + **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (5000+ řádků)
     - Kombinuje: slovíčka, fráze, koncovky, předpony, číslovky (část), větné členy
 + **budhotn_abeceda.csv** - abeceda a výslovnost (výhledově i šifry)
++ **budhotn_postatna.csv** - tabulka skloňování podstatných jmen
++ **budhotn_pridavna.csv** - tabulka skloňování přídavných jmen
++ **budhotn_zajmena.csv** - tabulka skloňování zájmen
++ **budhotn_cislovky.csv** - číslovky a tabulka jejich skloňování
++ **budhotn_slovesa.csv** - tabulka časování sloves
 + **README.md** - tento informační soubor
 
 
