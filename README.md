@@ -4,8 +4,8 @@ Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fon
 
 + **Budhót'n.xslx** - původní Excel 2007+ tabulka s abecedou, gramatikou, slovníkem atd.
     - Obsahuje listy: abeceda, slovíčka, fráze, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
-+ **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (~4000 řádků)
-    - Kombinuje: slovíčka, fráze, koncovky, předpony, větné členy
++ **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (5000+ řádků)
+    - Kombinuje: slovíčka, fráze, koncovky, předpony, číslovky (část), větné členy
 + **budhotn_abeceda.csv** - abeceda a výslovnost (výhledově i šifry)
 + **README.md** - tento informační soubor
 
