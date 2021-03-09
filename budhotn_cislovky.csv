@@ -20,7 +20,7 @@ arda,ărdtha,,,,,,,,,,
 bilion,dvaljon,,,,,,,,,,
 trilion,trzyljon,,,,,,,,,,
 ,,,,,,,,,,,
-aďyn,,dva,trzy-četyri,pjath-szjast,szidzëm-osjëm,dzywëdz,ďesath-dzywëdzcath,zto-dziwëdzto,tüszyc,miljon+,miljărdtha+
+,aďyn,dva,trzy-četyri,pjath-szjast,szidzëm-osjëm,dzywëdz,ďesath-dzywëdzcath,zto-dziwëdzto,tüszyc,miljon+,miljărdtha+
 1.,pjervyj,drûgi,trzety,pjathyj,szidzmyj,dzywëdzyj,ďesathyj,ztyj,tüszycyj,miljońy,miljărdthyj
 2.,pjervego,drûgego,trzetëgo,pjathègo,szidzmègo,dziwëdzmêgo,ďesathyğo,ztyğo,tüszyceğo,miljonïgo,miljărdthiğo
 3.,pjervomu,drûgemu,trzetëmu,pjathèmu,szidzmèmu,dziwëdzmêmu,ďesathymu,ztymu,tüszycemu,miljonïmu,miljărdthimu
@@ -31,4 +31,21 @@ aďyn,,dva,trzy-četyri,pjath-szjast,szidzëm-osjëm,dzywëdz,ďesath-dzywëdzca
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
-nevyjádřené číslovky dle číslice aďyn,,,,,,,,,,,
+nevyjádřené číslovky,dle číslice aďyn,,,,,,,,,,
+pomnožné,,,,krát,,,,,,,
+nuľ,nuľą,,,nuľkrač,,,,,,,
+aďyń,aďyńą,,,aďyńkrač,,,,,,,
+dva,dvą,,,dvakrač,,,,,,,
+trzy,trzą,,,trzykrač,,,,,,,
+četyri,četyrą,,,četyrikrač,,,,,,,
+pjath,pjathą,,,pjathkrač,,,,,,,
+szjast,szjastą,,,szjastkrač,,,,,,,
+szidzëm,szidzëmą,,,szidzëmkrač,,,,,,,
+osjëm,osjëmą,,,osjëmkrač,,,,,,,
+dzywëdz,dzywëdzą,,,dzywëdzkrač,,,,,,,
+ďesath,ďesathą,,,ďesathkrač,,,,,,,
+cath,cathą,,,cathkrač,,,,,,,
+zto,ztą,,,ztokrač,,,,,,,
+tüszyc,tüszycą,,,tüszyckrač,,,,,,,
+ljon,ljoną,,,ljonkrač,,,,,,,
+ărdtha,ărdthą,,,ărdthakrač,,,,,,,

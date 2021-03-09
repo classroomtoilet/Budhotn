@@ -1,13 +1,14 @@
 # Budhót'n
 
-Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fonémů. 7. verze.
+Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fonémů. 8. verze.
 
 + **Budhót'n.xslx** - původní Excel 2007+ tabulka s abecedou, gramatikou, slovníkem atd.
-    - Obsahuje listy: abeceda, slovíčka, fráze, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
+    - Obsahuje listy: abeceda, slovíčka, fráze, zeměpis, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
 + **budhotn.csv** - strojově čitelný slovník, přímo zde vyhledávatelný (5000+ řádků)
-    - Kombinuje: slovíčka, fráze, koncovky, předpony, číslovky (část), větné členy
-+ **budhotn_abeceda.csv** - abeceda a výslovnost (výhledově i šifry)
+    - Kombinuje: slovíčka, fráze, koncovky, předpony, číslovky (část), členy
++ **budhotn_abeceda.csv** - abecedy a výslovnost (výhledově i šifry)
 + **budhotn_postatna.csv** - tabulka skloňování podstatných jmen
++ **budhotn_zemepis.csv** - přepis georafických pojmů a psaní velkých písmen
 + **budhotn_pridavna.csv** - tabulka skloňování přídavných jmen
 + **budhotn_zajmena.csv** - tabulka skloňování zájmen
 + **budhotn_cislovky.csv** - číslovky a tabulka jejich skloňování
