@@ -1,6 +1,6 @@
 # Budhót'n
 
-Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fonémů. 8. verze.
+Umělý jazyk na bázi slovanských jazyků s velmi komplexním repertoárem fonémů. 9. verze, finální.
 
 + **Budhót'n.xslx** - původní Excel 2007+ tabulka s abecedou, gramatikou, slovníkem atd.
     - Obsahuje listy: abeceda, slovíčka, fráze, zeměpis, pod.jm., koncovky, příd.jm., slovesa, předpony, zájmena, číslovky, členy, zkratky, velká písmena
